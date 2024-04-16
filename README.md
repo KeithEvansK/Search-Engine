@@ -18,7 +18,7 @@ I developed this project using PHP, HTML, and CSS. As well as a MySQL database.
 
 The use case for a search engine like this or at least as bare bones as this project is would be more similar to an inventory search system versus a large scale Google-like search engine. 
 
-This engine is mostly demonstration of my use of an unfamiliar language (PHP) and how I adapted to learn the basics of it. Then using it to do the hard work of running quieries. 
+This engine is mostly demonstration of my use of an unfamiliar language (PHP) and how I adapted to learn the basics of it. Then using it to do the hard work of running queries. 
 
 This is a good representation for developing a front end for a business use so that non-technical individuals could use a database. 
 
@@ -59,7 +59,7 @@ The design is minimal but this project should just be used as a template if crea
 
 ### PHP
 
-This is the backbone of the project and performs all of the funcitons we need to bring our search engine to life. 
+This is the backbone of the project and performs all of the functions we need to bring our search engine to life. 
 
 This file contains the basic HTML required to get the page up and running along with the search inputs that have been moved to the side for the Google experience. 
 
@@ -102,7 +102,7 @@ Once we have the query and are connected to the database all we have to do is se
 
 Run a check to see if anything is returned then a loop to run through all the returned values. 
 
-I also set each found result to a varable here so I can use them within the display portion. 
+I also set each found result to a variable here so I can use them within the display portion. 
 
 ![image](https://github.com/KeithEvansK/Search-Engine/assets/99915276/c577f376-1ae0-4f87-8607-8949fb579657)
 
