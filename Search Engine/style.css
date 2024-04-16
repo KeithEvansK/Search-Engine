@@ -1,0 +1,81 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: white;
+    background-color: #1a1a1a;
+
+}
+
+.query {
+
+    border: 1px solid #cccccc;
+    background-color: #333333;
+    color: #bbbbbb;
+    padding: 5px;
+    font-size: 12px; 
+    border-radius: 5px; /* Rounds edges */
+    display: inline-block; /* Makes the div only as big as its contents */
+
+}
+
+input[type="text"], input[type="submit"] {
+
+    border: 1px solid #cccccc;
+    background-color: #333333;
+    color: #bbbbbb;
+    padding: 5px;
+    font-size: 12px; 
+    border-radius: 5px;
+    display: inline-block;
+
+
+}
+
+input[type="submit"]:hover {
+
+    border: 1px solid white;
+    background-color: #333333;
+    color: white;
+    padding: 5px;
+    font-size: 12px; 
+    border-radius: 5px;
+    display: inline-block;
+
+
+}
+
+input[type="text"]:hover{
+
+    border: 1px solid white;
+    background-color: #333333;
+    color: #bbbbbb;
+    padding: 5px;
+    font-size: 12px; 
+    border-radius: 5px;
+    display: inline-block;
+
+
+}
+
+/* Links */
+a {
+
+text-decoration: none; /* Removes the underline links have by default. */
+color: white; /* Removes the Blue color new links have by default. */
+
+}
+
+/* Visited links */
+a:visited {
+
+    color: white; /* Sets the color of visited links so it doesn't change. */
+    
+}
+
+
+.searchResult {
+
+    display: inline-block; /* Makes the div only as big as its contents */
+
+}
