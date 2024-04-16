@@ -153,7 +153,6 @@ You will also note that there is a little image for the results. For this I don'
 
 In this project I don't do much actual work with the database as this is more of a method of accessing the database. But you could set it up to store just about any kind of data you need. 
 
-![image](https://github.com/KeithEvansK/Search-Engine/assets/99915276/3cb8dd34-c44c-46de-8c0b-71a67fb4dd99)
 
 
 
