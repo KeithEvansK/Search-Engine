@@ -93,8 +93,8 @@ The connection is fairly simple and straight forward. You'll need your login cre
 
 I suggest using an exact example you find for this part as there is little room for error as it can cause the whole thing not to work. 
 
-[!WARNING]
-You may think that adding these credentials are unsafe but because we are using a PHP script to do this. PHP is server side and won't be directly displayed to the user. 
+> [!WARNING]
+> You may think that adding these credentials are unsafe but because we are using a PHP script to do this. PHP is server side and won't be directly displayed to the user. 
 
 #### Checking Results
 
